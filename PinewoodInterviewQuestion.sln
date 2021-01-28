@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30703.110
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PinnacleSample", "PinnacleSample\PinnacleSample.csproj", "{820CC7D7-0902-4E14-BC0C-268B1D86D29A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PinnacleTest", "PinnacleTest", "{BD813B15-9B97-49EE-B47B-361F38CE164B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PinnacleTest", "PinnacleTest\PinnacleTest.csproj", "{9F95AA65-8C16-4E12-A03A-9EAE2335B609}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{820CC7D7-0902-4E14-BC0C-268B1D86D29A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{820CC7D7-0902-4E14-BC0C-268B1D86D29A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{820CC7D7-0902-4E14-BC0C-268B1D86D29A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{820CC7D7-0902-4E14-BC0C-268B1D86D29A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F95AA65-8C16-4E12-A03A-9EAE2335B609}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F95AA65-8C16-4E12-A03A-9EAE2335B609}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F95AA65-8C16-4E12-A03A-9EAE2335B609}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F95AA65-8C16-4E12-A03A-9EAE2335B609}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9F95AA65-8C16-4E12-A03A-9EAE2335B609} = {BD813B15-9B97-49EE-B47B-361F38CE164B}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08928AF7-ED1A-4F81-B938-167D98CECCF6}
+	EndGlobalSection
+EndGlobal
